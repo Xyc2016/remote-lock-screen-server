@@ -1,0 +1,7 @@
+{
+  "name": "remote-lock-screen-server",
+  "packageManager": "yarn@4.5.0",
+  "dependencies": {
+    "lowdb": "^7.0.1"
+  }
+}
